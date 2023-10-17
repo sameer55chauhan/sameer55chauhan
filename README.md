@@ -25,10 +25,16 @@ I am a Full Stack Developer from India.
 
 - :zap: In my free time, I read books mainly biographies.
 
-- :mailbox:How to reach me: sameer55chauhan@gmail.com
+- :mailbox: How to reach me: sameer55chauhan@gmail.com
 
 ---
 
+### ️️🏢: ️️My Organizations :️️️️
+ - 📚 [Edu Stack](https://github.com/education-tech-stack): All projects that I have created while learning new tech through books or videos.
+ - 👴 [Old Project Repos](https://github.com/Old-Project-Repos): Mainly archived or dropped projects.
+ - 🔥 [Forked Repos](https://github.com/Forked-Sami-Repos): Contains awesome repos that are used or tweaked for self use.
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
