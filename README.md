@@ -23,7 +23,7 @@ I am a Full Stack Developer from India.
 
 - :seedling: Scalability, DevOps, Design and Research.
 
-- :zap: In my free time, I read books mainly biographies.
+- :zap: In my free time, I read books mainly biographies. And surf the product & tech world through articles.
 
 - :mailbox: How to reach me: sameer55chauhan@gmail.com
 
